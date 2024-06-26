@@ -1,0 +1,2 @@
+/usr/bin/x86_64-w64-mingw32-ar qc libMyLib.a CMakeFiles/MyLib.dir/__/src/mylib.c.obj
+/usr/bin/x86_64-w64-mingw32-ranlib libMyLib.a

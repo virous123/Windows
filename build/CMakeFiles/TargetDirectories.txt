@@ -1,0 +1,6 @@
+/home/vicky/Documents/project/build/CMakeFiles/Myexe.dir
+/home/vicky/Documents/project/build/CMakeFiles/edit_cache.dir
+/home/vicky/Documents/project/build/CMakeFiles/rebuild_cache.dir
+/home/vicky/Documents/project/build/lib/CMakeFiles/MyLib.dir
+/home/vicky/Documents/project/build/lib/CMakeFiles/edit_cache.dir
+/home/vicky/Documents/project/build/lib/CMakeFiles/rebuild_cache.dir
